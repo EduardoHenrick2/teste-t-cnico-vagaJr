@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\bin\Debug\net10.0\teste-palídrome.exe
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\bin\Debug\net10.0\teste-palídrome.deps.json
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\bin\Debug\net10.0\teste-palídrome.runtimeconfig.json
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\bin\Debug\net10.0\teste-palídrome.dll
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\bin\Debug\net10.0\teste-palídrome.pdb
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.dll
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\refint\teste-palídrome.dll
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.pdb
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\teste-palídrome.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-palídrome\obj\Debug\net10.0\ref\teste-palídrome.dll
