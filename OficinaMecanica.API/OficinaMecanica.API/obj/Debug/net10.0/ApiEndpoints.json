@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OficinaMecanica.API.Controllers.OrcamentoController",
+    "Method": "CadastrarOrcamento",
+    "RelativePath": "api/Orcamento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OficinaMecanica.API.Models.OrcamentoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
