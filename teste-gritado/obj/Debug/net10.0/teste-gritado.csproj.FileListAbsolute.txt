@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\bin\Debug\net10.0\teste-gritado.exe
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\bin\Debug\net10.0\teste-gritado.deps.json
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\bin\Debug\net10.0\teste-gritado.runtimeconfig.json
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\bin\Debug\net10.0\teste-gritado.dll
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\bin\Debug\net10.0\teste-gritado.pdb
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.sourcelink.json
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.dll
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\refint\teste-gritado.dll
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.pdb
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\teste-gritado.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\teste-tecnico\teste-gritado\obj\Debug\net10.0\ref\teste-gritado.dll
